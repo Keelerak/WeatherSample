@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search">Search</string>
+    <string name="action_settings">Прогноз</string>
+
+    <!--Activity name -->
+    <string name="title_activity_search">Search Location</string>
+</resources>
